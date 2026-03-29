@@ -13,7 +13,28 @@
 [特性](#-特性) • [快速开始](#-快速开始) • [配置说明](#%EF%B8%8F-配置说明) • [项目结构](#-项目结构)
 
 </div>
-
+【aiyiwei.vip】个人开发者和龙虾调用方案：100ms响应，1元开票，30+工具零改造
+ai工具使用者看过来 👉 https://aiyiwei.vip/register?aff=9RDC （尾部带个人邀请码，介意可删除尾部字母）
+⚡ 性能保障
+智能负载均衡，平均响应<100ms
+企业级稳定调用，99.9%可用性，不限速大并发不排队
+💰 成本直降80%
+官网 1-2折，601个模型统一管控
+最低1元起充，按需使用无现金流压力
+💼 财务合规无忧
+每笔充值均可开电子发票，最低 1元 起开
+告别代充灰色渠道，审计直接过
+🛠️ 30+工具和龙虾一键接入，现有系统零改造
+Claude Code/Cline/Cursor企业部署 → 文档已备
+常用龙虾一键配置文档:https://migxy8em66.apifox.cn/doc-8196816
+Claude Code → https://migxy8em66.apifox.cn/doc-8196820
+Cursor → https://migxy8em66.apifox.cn/doc-8196829
+Cline → https://migxy8em66.apifox.cn/doc-8196827
+n8n → https://migxy8em66.apifox.cn/doc-8196842
+等30多个代码和开发工具适配文档已备齐
+一个接口自动适配，标准OpenAI格式，现有代码改个base_url直接跑，1小时完成接入
+1元测试，5分钟配通工具，满意再规模化——让AI基础设施像水电一样即开即用
+推广有邀请奖励：支持支付宝提现
 ---
 
 <div align="center">
